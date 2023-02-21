@@ -1,0 +1,5 @@
+-o json
+-o wide
+-o custom-columns=<spec>
+-o jsonpath=<template>
+-o yaml
